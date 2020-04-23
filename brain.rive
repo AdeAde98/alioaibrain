@@ -7,14 +7,8 @@
 - hi, what is your name?
 
 + my name is *
-- nice to meet you <star>
-- nice meeting you <star>
-
-+ thank you
-- you are welcome. how are you?
-- welcome. how are you?
-- no problem. how are you?
-- no worries. how are you?
+- nice to meet you <star>, how are you?
+- nice meeting you <star>, how are you?
 
 + i am good
 - that is good. tell me more...
