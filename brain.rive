@@ -6,9 +6,6 @@
 + hi
 - hi, what is your name?
 
-+ hello
-- hello, what is your name?
-
 + my name is *
 - nice to meet you <star>, how are you?
 - nice meeting you <star>, how are you?
@@ -29,6 +26,12 @@
 
 + i dont know
 - okay is there anything else you would like to discuss?
+
++ can we discuss *
+- intresting. how do you feel about that?
+
++ nothing to discuss
+-okay it was nice talking to you. goodbye.
 
 + no 
 - okay it was nice talking to you. goodbye. 
